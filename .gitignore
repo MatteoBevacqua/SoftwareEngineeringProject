@@ -1,0 +1,9 @@
+*.pdf
+*.odt
+*.idea
+*.iml
+*.html
+*/.idea/*
+*/out/*
+*/.target/*
+*.txt
